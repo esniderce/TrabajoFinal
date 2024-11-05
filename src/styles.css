@@ -14,3 +14,16 @@ body{
     padding: 10px;
     border-radius: 30px!important;
 }
+
+.titular{
+    color: #4C74FF;
+    padding: 0 21px;
+    margin-top: 15px;
+}
+
+.titular h1{
+    color: #4C74FF;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
